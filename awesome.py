@@ -1,1 +1,2 @@
-print("hello")
+def awesome():
+    print("hello")
